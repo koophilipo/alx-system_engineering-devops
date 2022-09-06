@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '"(\uD4o)'"'"'\n'
+echo -en '"(\uD4o)'"'"'\n'
