@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '"(\uD4o)'"'"'\n'
+echo -e '"(\uD4o)'"'"'\n'
