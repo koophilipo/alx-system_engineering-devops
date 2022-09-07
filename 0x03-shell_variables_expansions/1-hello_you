@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello `w user | cut -d ' ' -f 1`"
+echo -n "hello `logname`"
